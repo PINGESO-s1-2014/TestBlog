@@ -1,0 +1,1 @@
+Seting up enviroment issues regarding javaEE, Glassfish and MySQL with a pre-proyect.
